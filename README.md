@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**kidubo/kidubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇹🇿 I'm [Innocent Leonard]  [Kidubo] 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Nodejs]
+- 🌱 I’m currently learning [AWS](https://aws.amazon.com/)
+- 👯 I’m looking to collaborate on [Nodejs] Open source project
+- 💬 Ask me about [nodejs](https://nodejs.org/en/)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/innocent-leonard-b42179131/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Shit happens "Así es la vida" 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Kidubo github stats](https://github-readme-stats.vercel.app/api?username=kidubo&count_private=true&show_icons=true) **|**
+![Top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidubo&layout=compact)
+
+
+👔 [linkedin](https://www.linkedin.com/in/innocent-leonard-b42179131/) **|**
+👪 [facebook](https://www.facebook.com/innocent.leonard.9/) **|**
