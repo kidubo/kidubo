@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [Nodejs](https://nodejs.org/en/)
 - 🌱 I’m currently learning [AWS](https://aws.amazon.com/)
 - 👯 I’m looking to collaborate on [Nodejs](https://nodejs.org/en/) Open source project
-- 💬 Ask me about [nodejs](https://nodejs.org/en/)
+- 💬 Ask me about [Nodejs](https://nodejs.org/en/)
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/innocent-leonard-b42179131/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Shit happens   "Así es la vida" 
