@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://kidubo-portfolio.herokuapp.com/](https://kidubo-portfolio.herokuapp.com/)
 
-- ⚡ Fun fact **shit happens**
+- ⚡ Fun fact ** How can i ..... **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
