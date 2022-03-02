@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kidubo&label=Profile%20views&color=0e75b6&style=flat" alt="kidubo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kidubo" alt="kidubo" /></a> </p>
-
-- 🔭 I’m currently working on [Expensify](https://react-kdb-course-2-expensify.herokuapp.com/)
-
-- 🌱 I’m currently learning **React Native**
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kidubo" alt="kidubo" /></a> </p>
+ -->
+<!-- - 🔭 I’m currently working on [Expensify](https://react-kdb-course-2-expensify.herokuapp.com/)
+ -->
+- 🌱 I’m currently learning **PYTHON**
 
 - 👯 I’m looking to collaborate on **Reactjs,Nodejs,MongoDb,Express .**
 
@@ -15,10 +15,10 @@
 
 - 📫 How to reach me **innocentleonard0007@gmail.com**
 
-- 📄 Know about my experiences [https://kidubo-portfolio.herokuapp.com/](https://kidubo-portfolio.herokuapp.com/)
-
-- ⚡ Fun fact ** How can i ..... **
-
+<!-- - 📄 Know about my experiences [https://kidubo-portfolio.herokuapp.com/](https://kidubo-portfolio.herokuapp.com/)
+ -->
+<!-- - ⚡ Fun fact ** How can i ..... **
+ -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/innocent-leonard-b42179131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="innocent-leonard-b42179131" height="30" width="40" /></a>
