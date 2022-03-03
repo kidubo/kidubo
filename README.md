@@ -32,7 +32,6 @@
 
 
 
-console.log(  )
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kidubo&show_icons=true&locale=en&layout=compact" alt="kidubo" /></p>
 <!--  
