@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on My Brain
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I make Bug's
 
