@@ -4,7 +4,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20API%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-- 🔭 I’m currently working on My Brain
+<!-- - 🔭 I’m currently working on NestJs -->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -15,11 +15,11 @@
 ### Frameworks
 
 <!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Laravel-black?&logo=laravel&logoColor" ></a> -->
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white" ></a>
-<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Ionic-3880FF?&logo=ionic&logoColor=white" ></a>
+<!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white" ></a> -->
+<!-- <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Ionic-3880FF?&logo=ionic&logoColor=white" ></a> -->
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"> </a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white" ></a>
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white" ></a>
+<!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white" ></a> -->
 <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white" ></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" ></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Vue.js-35495E?&logo=vue-dot-js&logoColor=4FC08D" ></a>
@@ -43,21 +43,21 @@
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white" ></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Nginx-009639?&logo=nginx&logoColor=whitet"></a> 
 
----
+<!-- ---
 ### DevOps
 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-Docker-black?&logo=docker"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white"></a>
 
----
+--- -->
 
-### IDES
+<!-- ### IDES
 
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Atom-66595C?&logo=Atom&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&logo=sublime-text&logoColor=important"></a>
 
----
+--- -->
 
 ### Version Controlling
 
