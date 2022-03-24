@@ -63,8 +63,8 @@
 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-Git-black?&logo=git" ></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" ></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/GitLab-330F63?&logo=gitlab&logoColor=white" ></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Bitbucket-330F63?&logo=bitbucket&logoColor=white" ></a>
+<!-- <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/GitLab-330F63?&logo=gitlab&logoColor=white" ></a> -->
+<!-- <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Bitbucket-330F63?&logo=bitbucket&logoColor=white" ></a> -->
 
 ---
 
