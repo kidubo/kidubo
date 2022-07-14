@@ -16,11 +16,11 @@
 
 
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"> </a>
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white" ></a>
+<!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white" ></a> -->
 <!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white" ></a> -->
 <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white" ></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" ></a>
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Vue.js-35495E?&logo=vue-dot-js&logoColor=4FC08D" ></a>
+<!--<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Vue.js-35495E?&logo=vue-dot-js&logoColor=4FC08D" ></a> -->
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/GraphQl-E10098?&logo=graphql&logoColor=white" ></a> 
 
 ---
