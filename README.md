@@ -19,13 +19,12 @@
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"> </a>
 <!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white" ></a> -->
 <!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white" ></a> -->
-<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white" ></a>
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" ></a>
+<!--<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white" ></a>
+<!--<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" ></a>
 <!--<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Vue.js-35495E?&logo=vue-dot-js&logoColor=4FC08D" ></a> -->
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/GraphQl-E10098?&logo=graphql&logoColor=white" ></a> 
-
----
-
+<!--<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/GraphQl-E10098?&logo=graphql&logoColor=white" ></a> 
+-->
+<!--
 ### Databases
 
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -42,13 +41,13 @@
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white" ></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Nginx-009639?&logo=nginx&logoColor=whitet"></a> 
 
-<!-- ---
+<!--
 ### DevOps
 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-Docker-black?&logo=docker"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white"></a>
 
---- -->
+-->
 
 <!-- ### IDES
 
@@ -56,24 +55,17 @@
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Atom-66595C?&logo=Atom&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&logo=sublime-text&logoColor=important"></a>
 
---- -->
+-->
 
 ### Version Controlling
 
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-Git-black?&logo=git" ></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" ></a>
+<!--<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-Git-black?&logo=git" ></a> -->
+<!--<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" ></a> -->
 <!-- <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/GitLab-330F63?&logo=gitlab&logoColor=white" ></a> -->
 <!-- <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Bitbucket-330F63?&logo=bitbucket&logoColor=white" ></a> -->
 
----
 
--->
-
-<details>
-    <summary>&#127942 <b>GitHub Top lang</b></summary><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kidubo&show_icons=true&locale=en&layout=compact" alt="kidubo" />
-
-</details>
 
 <details>
   <summary>📊 Github Stats</summary>
