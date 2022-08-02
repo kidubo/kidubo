@@ -67,11 +67,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kidubo&show_icons=true&locale=en&layout=compact" alt="kidubo" />
 
-<details>
-  <summary>📊 Github Stats</summary>
-<br><br>
   <img alt="kidubo Github Stats" src="https://github-readme-stats.vercel.app/api?username=kidubo&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
-</details>
 
 
 
