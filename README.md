@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I make Bug's
 
 ---
 
