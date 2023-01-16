@@ -7,7 +7,7 @@
 <!-- - 🔭 I’m currently working on NestJs -->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ---
 
